@@ -11,7 +11,7 @@ Projeto desenvolvido no curso Explorer da Rocketseat.
   <a href="#memo-licença">Licença</a>
 </p>
 <p align="center">
-  <img alt="License" src="./.gitignore/preview.png">
+  <img alt="License" src="./preview.png">
 </p>
 
 <br/>
